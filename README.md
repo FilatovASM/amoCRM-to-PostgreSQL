@@ -1,3 +1,4 @@
+<video src='img/test.mp4'>
 ## Установка
 
 Laravel:  
