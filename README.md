@@ -1,6 +1,6 @@
 
 ![dashboard](https://user-images.githubusercontent.com/43060981/194300822-e84f128d-c473-423e-b072-47c68d9f6772.JPG)
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://user-images.githubusercontent.com/43060981/194300738-7a037e47-c97d-4ac3-8f3b-f77b41498e39.mp4)
+![Laravel-и-еще-1-страница-—-Личный_-Microsoft_-Edge-2022-10-06-14-02-09](https://user-images.githubusercontent.com/43060981/194301655-96b2f02d-9e3d-4ff9-8b91-ea42a1a4d518.gif)
 ## Установка
 
 Laravel:  
