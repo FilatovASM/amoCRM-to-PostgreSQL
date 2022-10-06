@@ -1,6 +1,6 @@
 
 ![dashboard](https://user-images.githubusercontent.com/43060981/194300822-e84f128d-c473-423e-b072-47c68d9f6772.JPG)
-https://user-images.githubusercontent.com/43060981/194300738-7a037e47-c97d-4ac3-8f3b-f77b41498e39.mp4
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://user-images.githubusercontent.com/43060981/194300738-7a037e47-c97d-4ac3-8f3b-f77b41498e39.mp4)
 ## Установка
 
 Laravel:  
